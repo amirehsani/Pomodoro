@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Requirements:
 # 1. timer | https://github.com/caarlos0/timer
 # 2. spd-say | for Debian : apt-get install speech-dispatcher 
